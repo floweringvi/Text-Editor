@@ -30,7 +30,7 @@ For this project, the documentation provided by the bootcamp, the developtment c
 
    ##Testing 
 
-  Use the website yourself on the render deployed page here:
+  Use the website yourself on the render deployed page here: https://text-editor-1-n9dr.onrender.com 
 
    ##Questions 
    
